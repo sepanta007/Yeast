@@ -7,7 +7,7 @@
 * [Requirements](#requirements)
 * [Usage](#usage)
 * [Acknowledgments](#acknowledgments)
-* [Licence](#licence)
+* [License](#license)
 * [Contributors](#contributors)
 
 ## Overview
@@ -86,7 +86,7 @@ The project successfully applied PCA and K-means clustering to the yeast protein
 
 This project was conducted as part of the "Numerical Data Processing" course, using the [yeast protein localization dataset](https://archive.ics.uci.edu/dataset/110/yeast) and applying techniques learned throughout the course.
 
-## Licence
+## License
 
 This project is licensed under the [MIT](https://github.com/sepanta007/Yeast/blob/master/LICENSE) License.
 
